@@ -10,4 +10,10 @@ Must have installed:
 - Golang
 - Hoser Runtime
 
+## Developing Locally
 
+Install with pip locally to run examples
+
+```
+python -m pip install -e .
+```
